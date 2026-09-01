@@ -59,10 +59,10 @@ Aqui você encontrará os exercícios práticos, projetos desenvolvidos e anota�
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**  
-📧 [seu-email@exemplo.com]  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-🐙 [GitHub](https://github.com/seu-usuario)
+**[Mauricio Zavarce]**  
+📧 [mauricio_zavarce@outlook.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/mauriciosteixeira/)  
+🐙 [GitHub](https://github.com/MauricioZavarce)
 
 ---
 
